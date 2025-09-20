@@ -14,4 +14,6 @@ This project is a terminal-based application for create, edit and delete files. 
 
 ## Image References. 
 
-<img width="430" alt="Screenshot 2025-09-20 at 2 14 19 PM" src="https://github.com/user-attachments/assets/6609550f-df75-4b00-ab9a-c1caa9ea68e3" />
+| Results |
+|---------|
+| <img width="430" alt="Screenshot 2025-09-20 at 2 14 19 PM" src="https://github.com/user-attachments/assets/6609550f-df75-4b00-ab9a-c1caa9ea68e3" /> |
