@@ -6,11 +6,7 @@ import java.util.List;
 import java.util.Map;
 
 public class Graph {
-    private Map<Integer, Node> nodes;
-
-    public Graph() {
-        this.nodes = new HashMap<>();
-    }
+    private Map<Integer, Node> nodes = new HashMap<>();
 
     public void insertNode(int value) {
         if (!nodes.containsKey(value)) {

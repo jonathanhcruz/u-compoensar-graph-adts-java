@@ -6,6 +6,9 @@ public class Main {
 
         Graph myGraph = new Graph();
 
+        // Check if the graph is empty
+        System.out.println("Graph is empty? " + myGraph.isEmpty());
+
         // 1. Insert Nodes
         System.out.println("Inserting nodes into the graph...");
         for (int i = 0; i <= 8; i++) {
